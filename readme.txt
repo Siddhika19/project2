@@ -1,6 +1,7 @@
 Here's a sample README file for a web application that is to be hosted on Azure:
 
-Project Name
+
+Hunger Hunter Web Application
 
 This is the README file for a Hunger Hunter web application, which is designed to run on the Microsoft Azure platform.
 
