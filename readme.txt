@@ -1,66 +1,69 @@
-It is a free HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+Here's a sample README file for a web application that is to be hosted on Azure:
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+Project Name
 
+This is the README file for a Hunger Hunter web application, which is designed to run on the Microsoft Azure platform.
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+Overview
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
-
-However, you can remove the credit link by paying for No Attribution version of the template.
+Hunger Hunter is a web application that allows users to look for restaurants and book seats for a particular time, day, and date. The application is built using HTML, CSS, and JS and is designed to be scalable and secure by using Microsoft Azure.
 
 
-RIGHTS
+Deployment
 
-You are allowed to use it in your personal projects and commercial projects.
+To deploy the application on Azure, follow these steps:
 
-You can modify and sell it to your clients.
+- Create an Azure account and sign in to the Azure portal.
 
+- Click on "Create a resource" and select "Web App".
 
-PROHIBITIONS
+- Enter a unique name for your web app and select your subscription, resource group, and operating system.
 
-You cannot remove the credit link which links back to templatesjungle.com.
+- Choose the appropriate runtime stack and version.
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+- Configure your deployment settings and click "Create" to deploy your web app.
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
-
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
-
-You cannot host the download file in your website.
+For more detailed instructions on deploying a web app on Azure, please refer to the Azure documentation.
 
 
-SUPPORT
 
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
+Configuration
 
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
+To configure the application, follow these steps:
 
+- Navigate to the Azure portal and select your web app.
 
-CREDITS & REFERENCES
+- Click on "Configuration" and select "Application Settings".
 
-https://getbootstrap.com/
+- Add any required environment variables or connection strings.
 
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icomoon.io/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Slick Slider - https://kenwheeler.github.io/slick/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-Thanks for downloading from TemplatesJungle.com !
+- Save your changes.
 
 
+Usage
+
+To use the application, follow these steps:
+
+Navigate to the URL of the web app.
+Now you can navigate through various pages like home, menu, blogs, etc.
+
+
+Contributing
+
+Contributions to Hunger Hunter are welcome. To contribute, follow these steps:
+
+- Fork the repository and clone it to your local machine.
+
+- Create a new branch for your changes.
+
+- Make your changes and commit them to your branch.
+
+- Push your branch to your forked repository.
+
+- Open a pull request to the upstream repository.
+
+
+
+Contact
+
+If you have any questions or concerns, please contact us.
